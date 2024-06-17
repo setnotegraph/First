@@ -6,4 +6,5 @@
 
 int main(){
 	printf("Hello Git!\n");
+	printf("CHANGE\n");
 }
